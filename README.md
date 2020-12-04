@@ -1,6 +1,6 @@
 # OnLogic da1000_atom System
 
-[![CircleCI](https://circleci.com/gh/verypossible/nerves_system_onlogic_da1000_atom/tree/master.svg?style=svg)](https://circleci.com/gh/verypossible/nerves_system_onlogic_da1000_atom/tree/master)
+[![CircleCI](https://circleci.com/gh/verypossible/nerves_system_onlogic_da1000_atom/tree/main.svg?style=svg)](https://circleci.com/gh/verypossible/nerves_system_onlogic_da1000_atom/tree/main)
 [![Hex version](https://img.shields.io/hexpm/v/nerves_system_onlogic_da1000_atom.svg "Hex version")](https://hex.pm/packages/nerves_system_onlogic_da1000_atom)
 
 This is the base Nerves System configuration for an [OnLogic DA-1000 with Intel Atom](https://www.onlogic.com/da-1000/) system.
