@@ -78,7 +78,6 @@ defmodule NervesSystemOnLogicDA1000Atom.MixProject do
       "CHANGELOG.md",
       "Config.in",
       "external.mk",
-      "file-to-cpio.sh",
       "fwup-revert.conf",
       "fwup.conf",
       "LICENSE",
